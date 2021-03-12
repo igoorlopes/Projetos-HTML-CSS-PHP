@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+}
+h1{
+    color:gray
+}
+p{
+    color:whitesmoke ;
+    background-color:blue ;
+    padding-left: 50pt;
+}
+div{ 
+    padding-left: 50pt;
+    background-color: white;
+
+}
